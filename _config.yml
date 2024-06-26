@@ -21,12 +21,12 @@ repository               : "litwellchi.github.io/chixiaowei.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_5024.JPG"
+  avatar           : "IMG_5024.png"
   name             : "Xiaowei Chi"
   pronouns         : # example: "IT"  
-  bio              : "Robot, let us soar to the moon."
+  bio              : "Robot, please let us soar to the moon."
   location         : "Except Earth"
-  employer         : "Hong Kong University of Science and Technology"
+  employer         : "HKUST"
   uri              : # URL
   email            : "xchiaa@connect.ust.hk" 
 
